@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-animation/commit/1404817ac56301697a07e3d68e948e7c74d73ff2",
       "git:hexsha": "1404817ac56301697a07e3d68e948e7c74d73ff2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T12:04:38.217675+00:00"
     },
     {
       "@id": "https://repolex.ai/r/napari/napari-animation/commit/a2be8d9a93221f4aedcc1d13891da43d8c2bd35c",
